@@ -1,7 +1,7 @@
-import { Button } from "@/components/ui/button";
+import { Main } from "@/components/screens";
 
 const Home = () => {
-  return <Button className="cursor-pointer">Hello World</Button>;
+  return <Main />;
 };
 
 export default Home;
